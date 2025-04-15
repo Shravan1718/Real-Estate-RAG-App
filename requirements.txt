@@ -8,5 +8,3 @@ langchain-core==0.3.51
 langchain-groq==0.3.2
 langchain-huggingface==0.1.2
 langchain-text-splitters==0.3.8
-faiss-cpu
-faiss-gpu
