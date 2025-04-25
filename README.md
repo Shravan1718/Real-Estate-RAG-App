@@ -2,6 +2,8 @@
 
 A Gen AI-powered tool that helps Real Estate Research Analysts automate the process of extracting insights from real estate news articles using Retrieval-Augmented Generation (RAG).
 
+🎥 [Click here to watch the demo video](https://www.youtube.com/watch?v=di_PDYa9pVc)
+
 ---
 
 ## Problem Statement
